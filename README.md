@@ -6,5 +6,5 @@ To begin, open your terminal and CD to the location of the knittimer folder. I w
 
 Then, run the react app with ```npm run start```
 
-The timer and rowcounter will be available for you at [https://localhost:3000/](https://localhost:3000/)
-Requires Node to be installed.
+The timer and rowcounter will be available for you at [https://localhost:3000/](https://localhost:3000/)<br/>
+Requires Node, and React to be installed.
