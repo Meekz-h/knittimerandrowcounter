@@ -25,7 +25,7 @@ function RowCounter(){
   
     return (
         <div className="mx-auto align-middle">
-          <div className=" size-auto text-9xl bg-lime-600 rounded-3xl my-5 text-white text-center m-auto h">
+          <div className=" select-none size-auto text-9xl bg-lime-600 rounded-3xl my-5 text-white text-center m-auto h" onClick={increaseRows}>
             {rows}
           </div>
           <input
